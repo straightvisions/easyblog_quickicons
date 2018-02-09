@@ -1,0 +1,46 @@
+/**
+ * @version		1.0.x
+ * @package		Easyblog
+ * @author		Dennis Heiden https://www.straightvisions.com
+ * @copyright	Copyright (c) 2018 straightvisions
+ * @license		GNU General Public License v3.0
+*/
+#sveb .clear:after{
+	content: "";
+  display: table;
+  clear: both;
+}
+#sveb .icon_wrapper{
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:row;
+
+}
+#sveb .icon{
+	display:block;
+	width:150px;
+	max-width:150px;
+	overflow:hidden;
+	padding:20px 10px;
+	background:white;
+	color:rgb(48, 113, 169);
+	font-size:1.1rem;
+	text-align:center;
+	margin:5px;
+}
+#sveb .icon:hover,
+#sveb .icon:focus,
+#sveb .icon:active
+{
+	text-decoration:none;
+	background:rgb(48, 113, 169);
+	color:white;
+}
+#sveb .icon .fa{
+	display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 1.8rem;
+    padding-bottom: 15px;
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" client="administrator" method="upgrade" version="3.1" position="icon">
+    <name>SV EasyBlog Quick Icons (admin)</name>
+    <author>Dennis Heiden</author>
+    <creationDate>09-02-18</creationDate>
+    <copyright>Copyright (c) 2018 straightvisions</copyright>
+    <authorEmail>info@straightvisions.com</authorEmail>
+    <authorUrl>www.straightvisions.com</authorUrl>
+    <version>1.0.0</version>
+    <description><![CDATA[
+<strong>Please visit <a href="https://github.com/straightvisionscom/easyblog_quickicons/" target="_blank">https://github.com/straightvisionscom/easyblog_quickicons/</a> for more information and documentation.</strong>
+		]]>
+</description>
+    <files>
+        <filename module="mod_sv_easyblog_quickicons">mod_sv_easyblog_quickicons.php</filename>
+        <filename>index.html</filename>
+        <folder>tmpl</folder>
+    </files>
+    <config>
+        <fields name="params">
+        </fields>
+    </config>
+</extension>

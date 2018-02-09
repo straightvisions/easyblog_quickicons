@@ -1,7 +1,8 @@
 # EasyBlog Quickicons
 Adds quick icons to Joomla admin dashboard for EasyBlog shortcuts.
 
-This is not an official release of stackideas.com.
+This is not an official release of stackideas, please visit https://stackideas.com/easyblog for purchasing EasyBlog.
+Stackideas will not deliver any support for this module. Please use the issue tab here above!
 
 # Installation
   1) Download repository as ZIP.
